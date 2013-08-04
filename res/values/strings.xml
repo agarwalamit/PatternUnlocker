@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string-array name="colors">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>        
+    </string-array>
+    
+    <string-array name="size">
+        <item>LARGE</item>
+        <item>MEDIUM</item>
+        <item>SMALL</item>                
+    </string-array>
+    
+    <string-array name="shape">
+        <item>RECTANGLE</item>
+        <item>CIRCLE</item>
+        <item>TRIANGLE</item>        
+    </string-array>
+</resources>
+
